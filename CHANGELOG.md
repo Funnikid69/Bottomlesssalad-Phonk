@@ -1,3 +1,9 @@
+## [1.0.0-dev.2](https://github.com/Funnikid69/Bottomlesssalad-Phonk/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-11-21)
+
+### ✨ New Features
+
+* add flag and snoo filter extension ([8627914](https://github.com/Funnikid69/Bottomlesssalad-Phonk/commit/86279149e01197db9e443f446059ad37de890de1))
+
 ## 1.0.0-dev.1 (2026-11-21)
 
 ### ✨ New Features
